@@ -1,9 +1,11 @@
 var React = require('react');
 import GMaps from '../public/gmaps.js'
+import { Marker } from './Marker'
 // var GMaps = require('gmaps.js');
 
 var Map = React.createClass({
 
+}
 	componentDidMount(){
 
 		// Only componentDidMount is called when the component is first added to
